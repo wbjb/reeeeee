@@ -1,0 +1,23 @@
+h1 {
+	color: orange ;
+	text-align: justify;
+
+}
+p{
+
+	font-family: cursive;
+	font-style: inherit;
+	text-align: left;
+
+}
+ul {
+	line-height: 60px
+	font-style: oblique;
+	size: 70px
+}
+
+body{
+
+	background-color: grey; 
+
+}
